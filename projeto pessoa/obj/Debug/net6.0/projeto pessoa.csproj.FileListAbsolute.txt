@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\projeto pessoa\bin\Debug\net6.0\projeto pessoa.exe
+C:\Users\LAB4\Desktop\projeto pessoa\bin\Debug\net6.0\projeto pessoa.deps.json
+C:\Users\LAB4\Desktop\projeto pessoa\bin\Debug\net6.0\projeto pessoa.runtimeconfig.json
+C:\Users\LAB4\Desktop\projeto pessoa\bin\Debug\net6.0\projeto pessoa.dll
+C:\Users\LAB4\Desktop\projeto pessoa\bin\Debug\net6.0\projeto pessoa.pdb
+C:\Users\LAB4\Desktop\projeto pessoa\obj\Debug\net6.0\projeto pessoa.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\projeto pessoa\obj\Debug\net6.0\projeto pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\projeto pessoa\obj\Debug\net6.0\projeto pessoa.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\projeto pessoa\obj\Debug\net6.0\projeto pessoa.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\projeto pessoa\obj\Debug\net6.0\projeto pessoa.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\projeto pessoa\obj\Debug\net6.0\projeto pessoa.dll
+C:\Users\LAB4\Desktop\projeto pessoa\obj\Debug\net6.0\refint\projeto pessoa.dll
+C:\Users\LAB4\Desktop\projeto pessoa\obj\Debug\net6.0\projeto pessoa.pdb
+C:\Users\LAB4\Desktop\projeto pessoa\obj\Debug\net6.0\projeto pessoa.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\projeto pessoa\obj\Debug\net6.0\ref\projeto pessoa.dll
