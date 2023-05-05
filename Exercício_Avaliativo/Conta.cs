@@ -14,7 +14,7 @@ class Conta
     }
     public void Sacar(double valor){
         if (this.Saldo + this.Limite <= valor){
-            Console.WriteLine("Você esta sacando mais do que você tem");
+            Console.WriteLine("Seu saque não foi liberado, pois você não tem esse dinheiro na conta!");
         }else{
              this.Saldo -= valor;
         }
@@ -31,12 +31,12 @@ class Conta
         this.parcela = parcelas;
         this.valor = dinheiro;
         
-        double juros = dinheiro/parcelas;
-        double mult = dinheiro * 0.06;
-        double soma = mult + juros;
-        double total = soma * parcelas;       
+        double parcela = dinheiro/parcelas;
+        double juros = dinheiro * 0.06;
+        double parc_total = parcela + juros;
+        double total = parc_total * parcelas;       
 
-        string resultado = "O valor da sua parcela sem juros é: "+ juros +". O valor da parcela com juros: "+ mult + ". O valor do juros com prestações é de: "+ soma +"e o valor total a pagar é de: "+total;
+        string resultado = "Valor das Parcelas: "+ parcela +" Valor dos Juros: "+ juros + " Valor das parcelas com juros: "+ parc_total +" Valor total a se pagar: "+total;
         return resultado;
         
      

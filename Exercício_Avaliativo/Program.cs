@@ -3,24 +3,17 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("BEM VINDO AO BANCO DOS CRIAS");
-{
-    static void Main(string[] args){
-
+        Console.WriteLine("Projeto Banco ETEC MCM");
         Conta c = new Conta();
+        //c.Saldo = 1000;
+        c.Depositar(1000);
+        c.Sacar(1600);
+        c.AjustarLimite(500);
 
-        c.Depositar(500);
-        c.Sacar(900);
-        c.Sacar(1000);
+        double valortotal = c.MostrarSaldo();
 
-        Console.Write("Digite o valor do seu emprestimo: ");
-        c.valor = double.Parse(Console.ReadLine());
-        
-        Console.WriteLine("Seu emprestimo é de: " + c.valor);
-        Console.WriteLine("Seu emprestimo com Juros é de: " + c.total());
-        Console.WriteLine("Suas parcelas mensais serão de: " + c.juros());
+        Console.WriteLine("Seu saldo total é de " + valortotal);
 
-    }
-}
+        c.imprimi(c.emprestimo(12,1000));
     }
 }

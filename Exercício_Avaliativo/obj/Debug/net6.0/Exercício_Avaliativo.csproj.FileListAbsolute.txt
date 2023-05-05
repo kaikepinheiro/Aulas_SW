@@ -13,3 +13,18 @@ C:\Users\LAB4\Desktop\Exercício_Avaliativo\obj\Debug\net6.0\refint\Exercício_A
 C:\Users\LAB4\Desktop\Exercício_Avaliativo\obj\Debug\net6.0\Exercício_Avaliativo.pdb
 C:\Users\LAB4\Desktop\Exercício_Avaliativo\obj\Debug\net6.0\Exercício_Avaliativo.genruntimeconfig.cache
 C:\Users\LAB4\Desktop\Exercício_Avaliativo\obj\Debug\net6.0\ref\Exercício_Avaliativo.dll
+C:\Users\kaike\OneDrive\Área de Trabalho\Exercício_Avaliativo\obj\Debug\net6.0\Exercício_Avaliativo.csproj.AssemblyReference.cache
+C:\Users\kaike\OneDrive\Área de Trabalho\Exercício_Avaliativo\obj\Debug\net6.0\Exercício_Avaliativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaike\OneDrive\Área de Trabalho\Exercício_Avaliativo\obj\Debug\net6.0\Exercício_Avaliativo.AssemblyInfoInputs.cache
+C:\Users\kaike\OneDrive\Área de Trabalho\Exercício_Avaliativo\obj\Debug\net6.0\Exercício_Avaliativo.AssemblyInfo.cs
+C:\Users\kaike\OneDrive\Área de Trabalho\Exercício_Avaliativo\obj\Debug\net6.0\Exercício_Avaliativo.csproj.CoreCompileInputs.cache
+C:\Users\kaike\OneDrive\Área de Trabalho\Exercício_Avaliativo\obj\Debug\net6.0\Exercício_Avaliativo.dll
+C:\Users\kaike\OneDrive\Área de Trabalho\Exercício_Avaliativo\obj\Debug\net6.0\refint\Exercício_Avaliativo.dll
+C:\Users\kaike\OneDrive\Área de Trabalho\Exercício_Avaliativo\obj\Debug\net6.0\Exercício_Avaliativo.pdb
+C:\Users\kaike\OneDrive\Área de Trabalho\Exercício_Avaliativo\bin\Debug\net6.0\Exercício_Avaliativo.exe
+C:\Users\kaike\OneDrive\Área de Trabalho\Exercício_Avaliativo\bin\Debug\net6.0\Exercício_Avaliativo.deps.json
+C:\Users\kaike\OneDrive\Área de Trabalho\Exercício_Avaliativo\bin\Debug\net6.0\Exercício_Avaliativo.runtimeconfig.json
+C:\Users\kaike\OneDrive\Área de Trabalho\Exercício_Avaliativo\bin\Debug\net6.0\Exercício_Avaliativo.dll
+C:\Users\kaike\OneDrive\Área de Trabalho\Exercício_Avaliativo\bin\Debug\net6.0\Exercício_Avaliativo.pdb
+C:\Users\kaike\OneDrive\Área de Trabalho\Exercício_Avaliativo\obj\Debug\net6.0\Exercício_Avaliativo.genruntimeconfig.cache
+C:\Users\kaike\OneDrive\Área de Trabalho\Exercício_Avaliativo\obj\Debug\net6.0\ref\Exercício_Avaliativo.dll

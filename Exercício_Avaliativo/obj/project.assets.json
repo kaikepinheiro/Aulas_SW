@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\LAB4\\.nuget\\packages\\": {}
+    "C:\\Users\\kaike\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LAB4\\Desktop\\Exercício_Avaliativo\\Exercício_Avaliativo.csproj",
+      "projectUniqueName": "C:\\Users\\kaike\\OneDrive\\Área de Trabalho\\Exercício_Avaliativo\\Exercício_Avaliativo.csproj",
       "projectName": "Exercício_Avaliativo",
-      "projectPath": "C:\\Users\\LAB4\\Desktop\\Exercício_Avaliativo\\Exercício_Avaliativo.csproj",
-      "packagesPath": "C:\\Users\\LAB4\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LAB4\\Desktop\\Exercício_Avaliativo\\obj\\",
+      "projectPath": "C:\\Users\\kaike\\OneDrive\\Área de Trabalho\\Exercício_Avaliativo\\Exercício_Avaliativo.csproj",
+      "packagesPath": "C:\\Users\\kaike\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kaike\\OneDrive\\Área de Trabalho\\Exercício_Avaliativo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LAB4\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\kaike\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }
